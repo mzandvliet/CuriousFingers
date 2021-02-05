@@ -1,0 +1,20 @@
+.vs/
+.vscode/
+*.csproj
+*.sln
+Assets/Plugins/Midi/docs/
+Library/
+Temp/
+obj/
+Build/
+Logs/
+Assets/Samples/
+Music/
+Assets/TextMesh Pro/
+Assets/Scenes/DjAppController/
+Assets/Plugins/UnityAud.113DED6D.tlog/
+Assets/Shapes/
+Assets/SteamVR/InteractionSystem/
+*.pdf
+Assets/SteamVR/OpenVRUnityXRPackage/Editor/com.valvesoftware.unity.openvr-1.1.4.tgz
+Assets/SteamVR/OpenVRUnityXRPackage/Editor/com.valvesoftware.unity.openvr-1.1.4.tgz.meta
